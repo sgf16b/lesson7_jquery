@@ -1,0 +1,2 @@
+
+In order to enhance the Recipe Display Application, I changed the display feature from fadeIn() to focusin(). I also changed the animate feature from toggle slow to toggle fast. Additionally, I changed the h3 element feature from click() to hover(). Not only that, but I changed the background color of the h3 elements from yellow and pink when you hover over it to the color orange when you click on it. Lastly, I changed the display2 method from hover() to click().
